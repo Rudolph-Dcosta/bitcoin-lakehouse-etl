@@ -49,3 +49,5 @@ Visualizations
 The project includes a Databricks-native dashboard visualizing
 Real-time Bitcoin Price Volatility.
 Hourly percentage change trends.
+
+gcp-key.json ie Credentials are managed securely via Unity Catalog Volumes and are not included in this repository.
